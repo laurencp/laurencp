@@ -1,1 +1,1 @@
-importScripts("https://static.ap3stg.com/capture/master/push-service-worker-script.js");
+importScripts("https://cdn3l.ink/push-service-worker-script.js")
